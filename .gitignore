@@ -1,0 +1,5 @@
+data/
+config.local.sh
+*.swp
+*.sif
+__pycache__/

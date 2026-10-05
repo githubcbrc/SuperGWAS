@@ -1,0 +1,22 @@
+# Large directories
+data/
+experiments/
+results/
+
+# Generated files
+*.sif
+*.tar
+*.log
+
+# Config with local paths
+config.local.sh
+
+# Git
+.git/
+
+# Editor files
+*.swp
+*.tmp
+*~
+.vscode/
+.idea/
